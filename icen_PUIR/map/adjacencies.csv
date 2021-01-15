@@ -145,9 +145,23 @@
 1221;1144;impassable;0;0;Kalat-Zahedan
 1228;1219;impassable;0;0;Multan-Quetta
 ;;;;;
-#Spain;;;;;
-492;460;impassable;0;0;Bilbo-Pau
-;;;;;
+
+#Pyrenees Mountain Range
+
+460;496;impassable;0;0;
+457;500;impassable;0;0;
+457;499;impassable;0;0;
+
+#Carpathian Mountains
+
+661;953;impassable;0;0;
+661;662;impassable;0;0;
+660;663;impassable;0;0;
+660;672;impassable;0;0;
+660;668;impassable;0;0;
+636;2584;impassable;0;0;
+636;704;impassable;0;0;
+
 #Andes Mountains;;;;;
 2333;2397;impassable;0;0;Puerto Aisen-Esquel
 2333;2398;impassable;0;0;Puerto Aisen-Puerto Deseado

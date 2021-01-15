@@ -18323,32 +18323,33 @@
 } 
 
 # Spa
-396 = { 
-    text_position = { 
-        x = 2899.300049
-        y = 1637.900024
-    } 
+396 = {
+    text_position = {
+        x = 2900.850000
+        y = 1638.650000
+    }
 
-    text_scale = 2.000000
-    building_construction = { 
-        x = 2903.100098
-        y = 1637.099976
-    } 
-
-    factory = { 
+    text_rotation = 4.727463
+    text_scale = 1.000000
+    factory = {
         x = 2896.399902
         y = 1642.099976
-    } 
+    }
 
-    building_position = { 
-        fort = { 
+    building_construction = {
+        x = 2903.100098
+        y = 1637.099976
+    }
+
+    building_position = {
+        fort = {
             x = 2896.000000
             y = 1637.000000
-        } 
+        }
 
-    } 
+    }
 
-} 
+}
 
 # Luxembourg
 397 = { 
@@ -27776,81 +27777,91 @@
 } 
 
 # Plzen
-629 = { 
-    unit = { 
-        x = 3011.000000
-        y = 1622.000000
-    } 
-
-    text_position = { 
-        x = 3011.600098
-        y = 1619.800049
-    } 
+629 = {
+    text_position = {
+        x = 3005.600098
+        y = 1622.800049
+    }
 
     text_scale = 2.400000
-    building_construction = { 
-        x = 3017.000000
-        y = 1626.000000
-    } 
+    unit = {
+        x = 3006.843750
+        y = 1624.812500
+    }
 
-    military_construction = { 
-        x = 3016.800049
-        y = 1620.000000
-    } 
+    factory = {
+        x = 3010.750000
+        y = 1627.062500
+    }
 
-    factory = { 
-        x = 3004.300049
-        y = 1625.000000
-    } 
+    building_construction = {
+        x = 3005.937500
+        y = 1619.750000
+    }
 
-    building_position = { 
-        fort = { 
-            x = 3014.000000
-            y = 1614.000000
-        } 
+    military_construction = {
+        x = 3005.843750
+        y = 1618.562500
+    }
 
-    } 
+    building_position = {
+        fort = {
+            x = 3012.000000
+            y = 1623.000000
+        }
 
-} 
+        railroad = {
+            x = 3003.531250
+            y = 1623.937500
+        }
+
+    }
+
+}
 
 # Budejovice
-630 = { 
-    text_position = { 
-        x = 3031.399902
-        y = 1608.699951
-    } 
+630 = {
+    text_position = {
+        x = 3026.399902
+        y = 1604.699951
+    }
 
-    text_rotation = 6.283185
-    text_scale = 2.600000
-    building_construction = { 
-        x = 3041.199951
-        y = 1612.900024
-    } 
+    text_rotation = 12.283185
+    text_scale = 2.000000
+    unit = {
+        x = 3026.458333
+        y = 1605.641667
+    }
 
-    military_construction = { 
-        x = 3033.000000
-        y = 1607.000000
-    } 
+    factory = {
+        x = 3019.658333
+        y = 1610.508333
+    }
 
-    factory = { 
-        x = 3024.000000
-        y = 1614.000000
-    } 
+    building_construction = {
+        x = 3031.858333
+        y = 1604.508333
+    }
 
-    building_position = { 
-        fort = { 
-            x = 3043.000000
-            y = 1617.000000
-        } 
+    military_construction = {
+        x = 3034.091667
+        y = 1603.308333
+    }
 
-        naval_base = { 
-            x = 3021.000000
-            y = 1532.000000
-        } 
+    building_position = {
+        fort = {
+            x = 3045.000000
+            y = 1610.000000
+        }
 
-    } 
+        railroad = {
+            x = 3020.625000
+            y = 1608.841667
+        }
 
-} 
+    }
+
+}
 
 # Brno
 631 = { 
